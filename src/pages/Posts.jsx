@@ -56,7 +56,7 @@ function Posts(){
         style={{marginTop:10}}
         onClick={() => setModal(true)}
       >
-        Create User
+        Create post
       </MyButton>
       <MyModal
         visible={modal}
