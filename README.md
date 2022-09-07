@@ -6,6 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`![p](https://user-images.githubusercontent.com/54284123/188907699-09a044e3-937b-4bfc-a014-cec4b3b7cc09.png)
-![p2](https://user-images.githubusercontent.com/54284123/188907706-a5792f88-3d59-41a0-984f-31669c01101c.png)
-![p3](https://user-images.githubusercontent.com/54284123/188907709-08104b9e-90bd-4bec-8d05-c3d1c31f5504.png)
+### `npm start`!![p1](https://user-images.githubusercontent.com/54284123/188908452-88903ef3-85e2-4246-866d-2234fcf6802d.png)
+![p2](https://user-images.githubusercontent.com/54284123/188908455-03b7331a-089e-4d03-948e-18fe7da93f1e.png)
+![p3](https://user-images.githubusercontent.com/54284123/188908459-679a1895-a1cd-4ccb-bc98-21e6ab053faa.png)
